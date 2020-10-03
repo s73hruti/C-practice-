@@ -1,0 +1,9 @@
+// To print all the character value of ascii value 
+#include<stdio.h>
+void main()
+{ 
+ int i;
+ for(i=0;i<147;i++)
+ {  printf("%c\n",i);
+ }
+ }
