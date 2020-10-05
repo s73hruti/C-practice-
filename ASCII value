@@ -3,7 +3,9 @@
 void main()
 { 
  int i;
+ printf("THE ASCII CODES OF ALPHABETS ARE");
  for(i=0;i<147;i++)
  {  printf("%c\n",i);
  }
+ return 0;
  }
